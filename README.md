@@ -3,4 +3,4 @@
 
 
 # Links
-[Dart](https://dart.dev/ "dunyo seni togangmas")
+[Dart](https://dart.dev/ "Dunyo seni togangmas")
